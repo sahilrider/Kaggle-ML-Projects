@@ -1,4 +1,8 @@
-# S-Iris
-Mini Machine Learning Project for better understanding of data visualisation and machine learning algorithms.
+# Kaggle-ML-Projects
+
+<b>Mini Machine Learning Project for better understanding of data visualisation and machine learning algorithms.</b>
 <br>
-Dataset credits - Kaggle
+<ul>
+<li>Iris Dataset [https://www.kaggle.com/uciml/iris] </li>
+<li>Titanic [https://www.kaggle.com/c/titanic/] </li>
+</ul>
