@@ -1,0 +1,33 @@
+In version 3 , I experimented many alpha values and epoch runs
+
+Each submission files is for different runs.
+
+1. sub3_2_3
+	alpha=0.0001 epoch=100 with validation split of 0.05
+
+	Acc scored on leaderboard- 0.95142
+
+2. sub3_3
+	alpha=0.005
+	epoch=50
+	val_split =0.05
+
+	ACC on LB - 0.95371
+
+3. sub3_4
+	alpha=0.01
+	epoch=25
+	val_split=0.5
+
+	ACC on LB - 0.93714
+
+	It is a higher learning rate and so loss is started to diverge ,can be seen from learning curve
+
+4. sub3_5
+	alpha=0.005
+	epoch=50
+	no val split
+
+	ACC on LB - 0.94528
+
+	We started to overfit the data
